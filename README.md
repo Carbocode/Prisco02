@@ -1,15 +1,14 @@
-👋 Hi
-----------
- I’m @Prisco02, a CS students from Italy.
+<h1>👋 Hi</h1>
+ I’m @Prisco02, a CS student from Italy.
  
-👀 I’m interested in 
-----------
+<h2>👀 I’m interested in</h2>
+
 - Web Developing
 - AR/VR
 - Game Developing
 
-🌱 I’m currently learning
-----------
+<h2>🌱 I’m currently learning</h2>
+
 - PHP
 - JS
   - React
@@ -19,7 +18,9 @@
 - MongoDB
 - Python
 - C#
-  - .NET   
+  - .NET
+    - WPF
+    - WinForm
 - C++
 - Rust
 
