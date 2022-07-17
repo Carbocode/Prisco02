@@ -1,12 +1,3 @@
-<h1>👋 Hi</h1>
- I’m @Prisco02, a CS student from Italy.
- 
-<h2>👀 I’m interested in</h2>
-
-- Web Developing
-- AR/VR
-- Game Developing
-
 <h2>🌱 I’m currently learning</h2>
 
 - PHP
@@ -22,7 +13,7 @@
     - WPF
     - WinForm
 - C++
-- Rust
+- Lua
 
 
 
